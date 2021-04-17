@@ -1,0 +1,128 @@
+.nav-black {
+    background-color: black;
+    color: white;
+    padding-top: 22px;
+    padding-bottom: 22px;
+    padding-left: 18px;
+    padding-right: 18px;
+}
+
+#t1, #t2, #t3, #t4, #t5, #t6, #t7, #t8, #t9, #t10 {
+    color: white;
+    font-size: 18px;
+}
+
+#t1:hover, #t2:hover, #t3:hover, #t4:hover, #t5:hover, #t6:hover, #t7:hover, #t8:hover, #t9:hover, #t10:hover {
+    background-color: black;
+    color: #f42535;
+    font-size: 18px;
+}
+
+.hrgrande {
+    border: 4px solid black;
+}
+
+.hrrojo {
+    border: 4px solid #f42535;
+}
+
+#contenedor2 {
+    background-color: #efefef;
+    color: black;
+}
+
+#contenedor3 {
+    background-color: black;
+    padding-top:32px;
+    padding-bottom:32px;
+
+}
+
+.cont2 p, .links{
+    color:black;
+    padding-top:5px;
+    padding-bottom:5px;
+}
+
+.links2{
+    color:gray;
+    padding-top:5px;
+    padding-bottom:5px;
+
+}
+
+.links3{
+    color:gray;
+    padding-top:1px;
+    padding-bottom:1px;
+}
+
+.hrpeque {
+    border: 1px solid gray;
+}
+
+.icono{
+    font-size: 20px;
+    letter-spacing: 15px;
+}
+
+#textVideo{
+    padding-top: 10px;
+}
+
+.textoNegro{
+    color:black;
+}
+
+.textoRosado{
+    color:#f42535;
+}
+
+.tituloPequenoLink{
+    color:#f42535;
+}
+.tituloPequenoLink:hover{
+    color:#f42535;
+}
+.linkNegroRosado:hover{
+    color:#f42535;
+}
+.linkNegroRosado{
+    color:#000000;
+}
+
+.linkNegroNegro:hover{
+    color:#000000;
+}
+.linkNegroNegro{
+    color:#000000;
+}
+
+.linkRosadoNegro:hover{
+    color:#000000;
+}
+.linkRosadoNegro{
+    color:#f42535;
+}
+.linkRosadoRosado:hover{
+    color:#f42535;
+}
+.linkRosadoRosado{
+    color:#f42535;
+}
+.linkGrisRosado:hover{
+    color:#f42535;
+}
+.linkGrisRosado{
+    color:gray;
+}
+.linkBlancoRosado:hover{
+    color:#f42535;
+}
+.linkBlancoRosado{
+    color:white;
+}
+
+.textoNegro{
+    color:black;
+}
